@@ -1,0 +1,7 @@
+name: Episode2
+author: mentor6561
+main: fr.mentor6561.episode2.Main
+version: 1.0.0
+commands:
+  bc:
+    description: Commande Broadcast
